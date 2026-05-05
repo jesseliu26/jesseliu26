@@ -32,8 +32,7 @@ I build systems and study markets.
 
 ## Contact
 
-- X: [https://x.com/jesseliu](https://x.com/jesseliu)
-- Email: [jesseliu@xxx.com](mailto:jesseliu@xxx.com)
+- Email: [jesseliu26@gmail.com](mailto:jesseliu26@gmail.com)
 
 ## Status
 
