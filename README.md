@@ -1,16 +1,40 @@
-## Hi there 👋
+# Jesse Liu26
 
-<!--
-**jesseliu26/jesseliu26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Programming is a struggle. Still here.
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build systems and study markets.
+
+- Interested in: trading systems, market structure, decision-making
+- Background: computer science × economics
+- Learning through building and losing
+
+## Current Focus
+
+- Systematic thinking in trading
+- Data-driven decision making
+- Exploring asymmetry in markets
+
+## Projects
+
+- Building small systems to understand complexity
+- Experiments > tutorials
+- Code as a thinking tool
+
+## Philosophy
+
+> The biggest risk is not participating.
+
+- Stay in the game
+- Survive first, optimize later
+- Focus on process, not noise
+
+## Contact
+
+- X: [https://x.com/jesseliu](https://x.com/jesseliu)
+- Email: [jesseliu@xxx.com](mailto:jesseliu@xxx.com)
+
+## Status
+
+Still playing the game.
