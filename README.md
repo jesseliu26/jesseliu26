@@ -1,34 +1,27 @@
 # Jesse Liu26
 
-> Programming is a struggle. Still here.
+> Building, learning, and improving through code.
 
 ## About
 
-I build systems and study markets.
+I am focused on software engineering, computer science fundamentals, and practical system building.
 
-- Interested in: trading systems, market structure, decision-making
-- Background: computer science × economics
-- Learning through building and losing
+- Interested in: backend development, automation, data processing, and developer tools
+- Background: computer science
+- Learning through hands-on projects and technical experiments
 
 ## Current Focus
 
-- Systematic thinking in trading
-- Data-driven decision making
-- Exploring asymmetry in markets
+- Writing reliable and maintainable code
+- Building small tools and systems
+- Improving engineering fundamentals
 
 ## Projects
 
-- Building small systems to understand complexity
-- Experiments > tutorials
+- Small utilities and automation scripts
+- Backend and data-oriented experiments
+- Technical notes and project-based learning
 - Code as a thinking tool
-
-## Philosophy
-
-> The biggest risk is not participating.
-
-- Stay in the game
-- Survive first, optimize later
-- Focus on process, not noise
 
 ## Contact
 
@@ -36,4 +29,4 @@ I build systems and study markets.
 
 ## Status
 
-Still playing the game.
+Still building.
